@@ -3,7 +3,7 @@ function Author(props) {
     return (
         <p className="">
             Sitio creado por{" "}
-            <a className="text-pink-400">
+            <a className="text-sky-400">
                 {props.author}
             </a>{" "}
             2024.

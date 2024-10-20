@@ -9,7 +9,7 @@ import Footer from "./components/Footer";
 function App() {
 
   return (
-    <div className='container mx-auto flex flex-col min-h-screen items-center bg-sky-100'>
+    <div className='container mx-auto flex flex-col min-h-screen items-center bg-red-100'>
       <Header />
       <Main />
       <Footer />
